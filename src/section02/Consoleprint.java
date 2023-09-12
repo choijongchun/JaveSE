@@ -26,6 +26,7 @@ package section02;
  * 	%c : 문자
  * 
  * 
+ * 
  */
 public class Consoleprint {
 	// 자바 프로그램 시작 메인 메서드
